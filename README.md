@@ -1,5 +1,3 @@
-# Lee-jongmin
-
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nmb119)](https://solved.ac/nmb119/)
 
